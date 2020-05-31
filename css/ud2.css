@@ -1,0 +1,24 @@
+body {
+  background-image: url("C:\Users\Shubhu\Desktop\universal doctor\picx\IMG-7419.JPG");
+}
+  
+  
+  h1 {
+      font-size: 100px;
+  }
+  h3{
+      font-size: 50px;
+  }
+  li{
+      font-size: 25px;
+  }
+ 
+  ul {
+    color: darkslategray;
+  }
+  ol {
+    color: firebrick;
+  }
+  h2 {
+    font-size: 30;
+  }
